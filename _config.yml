@@ -1,9 +1,8 @@
-title: "Will Russell"
-email: fellowship@mlh.io
+title: "S Garrett"
+email: quitesadgeese@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a portfolio for storing CV material and have a laugh until the graceful hand of death shall claim my already frail body. 
+  Or until I get bored... [please edit this]
 # Root directory for your portfolio. On GitHub Pages, this is the name of your repository.
 baseurl: "/legendary-octo-lamp"
 # Protocol + hostname for your portfolio. On GitHub Pages, this is https://yourusername.github.io
